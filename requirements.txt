@@ -1,2 +1,4 @@
-python-telegram-bot==21.5          # or latest stable ~21.x or 20.x
-python-dotenv==1.0.1
+python-telegram-bot>=21.0
+python-dotenv
+fastapi
+uvicorn[standard]
